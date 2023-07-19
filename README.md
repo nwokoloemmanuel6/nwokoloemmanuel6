@@ -12,7 +12,7 @@ I'm a Cloud Engineer who graduated from AltSchool Africa [School of Software Eng
 - 😎🌚 I am a technical writer and articles i have written has helped both beginners and experts in the cloud engineering space to understand certain topics. you should check it out here --> [CloudTopG](https://medium.com/@CloudTopG)
 - 💼 Job interests: Software | Cloud | DevOps Engineer roles
 - 🤝🏽 I’m looking to contribute to open-source projects.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing nwokoloebuka84@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/17grlSF7uf5_3LUjKpil0eDQzAaP4wiVJ/view?usp=sharing) and also contact me by emailing nwokoloebuka84@gmail.com.
 
 
 ---
